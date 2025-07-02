@@ -1,1 +1,1 @@
-name: cccRimm
+name: cccRim
